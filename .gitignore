@@ -1,0 +1,7 @@
+# Data and model artifacts
+data/
+.venv/
+__pycache__/
+*.pyc
+.qodo/
+.env
