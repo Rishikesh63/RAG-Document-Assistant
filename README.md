@@ -71,6 +71,12 @@ Built this for a technical assessment - what started as a basic RAG implementati
 
 ## Getting Started
 
+### Clone the Repository
+```bash
+git clone https://github.com/Rishikesh63/RAG-Document-Assistant.git
+cd RAG-Document-Assistant
+```
+
 ### Setup
 ```powershell
 python -m venv .venv
