@@ -150,7 +150,7 @@ st.sidebar.info("""
 - Strategy: Swappable LLM providers
 - Builder: Fluent configuration
 - Factory: Component creation
-- Singleton: Smart caching
+- Caching: Global model/index caching
 """)
 
 # Main query interface
