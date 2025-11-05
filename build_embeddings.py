@@ -10,7 +10,7 @@ My approach:
 - FAISS IndexFlatIP - simple but blazingly fast for this use case
 
 Run this first before anything else:
-    python build_embeddings.py --pdfs "doc1.pdf,doc2.pdf" --out_dir data
+    python build_embeddings.py --pdfs "agentstarter.pdf,Matering RAG.pdf" --out_dir data
 """
 import json
 import argparse

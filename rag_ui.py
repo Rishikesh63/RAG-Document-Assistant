@@ -15,7 +15,7 @@ Run: streamlit run rag_ui.py
 import streamlit as st
 import json
 from pathlib import Path
-from rag_pipeline import answer_query_enhanced, RAGPipelineBuilder
+from rag_pipeline import answer_query_enhanced
 from guardrails import apply_guardrails
 
 
